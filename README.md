@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitin007017
 - 👀 I’m interested in AI and machine learning
-- 🌱 currently Iam a beginner so Iam learning DSA 
+- 🌱 currently Iam doing Front end Development
 - 💞️ I’m looking to collaborate with people who can teach me different 
       Technologies.
 
